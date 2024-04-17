@@ -1,0 +1,85 @@
+
+#Titulo1{
+    color: rgb(230, 134, 8);
+}
+
+@font-face {
+    font-family: 'Jacquard' ;
+    src: url(/Fuentes/Jacquard12Charted-Regular.ttf);
+    font-weight: bold;
+    font-style: bold;
+}
+#Titulo1{
+    font-family: 'jacquard';
+    font-weight: normal ;
+    width: '100';
+}
+    
+    @font-face {
+        font-family: 'Luckiest';
+        src: url(/Fuentes/LuckiestGuy-Regular.ttf);
+        font-weight: bold;
+        font-style: bold;
+    }
+
+
+p.texto1{
+    color: rgb(3, 0, 165);
+}
+body{
+
+   background-image: url(/imgenes/FondeGris.jpg);
+}
+@font-face {
+    font-family: 'Jersey25';
+    src: url(/Fuentes/Jersey_25/Jersey25-Regular.ttf);
+    
+}
+span.Xbox{
+    color: rgb(85, 189, 125);
+    font-family: 'Jersey25';
+}
+@font-face {
+    font-family: 'Jersey25';
+    src: url(/Fuentes/Jersey_25/Jersey25-Regular.ttf);
+}
+span.Ps4{
+    color: rgb(0, 41, 102);
+    font-family: 'Jersey25';
+    
+}
+
+span.Pc{
+    color: rgb(0, 37, 37);
+    font-family: 'Jersey25';
+}
+
+span.Nintendo{
+    color: brown;
+    font-family: 'Jersey25';
+}
+
+ul.Puntos{
+    color: rgb(8, 5, 0);
+}
+h1.TituloXbox{
+    color: rgb(2, 231, 2);
+    font-family: 'Jersey25';
+
+}
+h1.TituloPs4{
+    color: blue;
+    font-family:'Jersey25';
+}
+h1.TituloPc{
+    color: azure;
+    font-family:'Jersey25';
+}
+h1.TituloNintendo{
+    color: brown;
+    font-family:'Jersey25';
+}
+h2.TituloPaginas{
+    color: black;
+    font-family:'Jersey25';
+}
